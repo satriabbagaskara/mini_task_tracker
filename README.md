@@ -3,6 +3,7 @@
 - **Nama:** Satria Bisma Bagaskara
 - **NIM:** 103012500110
 - **Jurusan:** S1 Informatika
+
 Aplikasi pencatat tugas harian (*to-do list*) sederhana berbasis **Flutter** yang dibuat untuk memenuhi studi kasus pengembangan aplikasi mobile. Aplikasi ini mengelola daftar catatan secara dinamis di memori lokal menggunakan `StatefulWidget` dan `setState()`.
 
 ## Fitur Utama

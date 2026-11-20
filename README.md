@@ -2,7 +2,7 @@
 
 - **Nama:** Satria Bisma Bagaskara
 - **NIM:** 103012500110
-- **Jurusan:** S1 Informatika
+- **Jurusan/Prodi:** S1 Informatika
 
 Aplikasi pencatat tugas harian (*to-do list*) sederhana berbasis **Flutter** yang dibuat untuk memenuhi studi kasus pengembangan aplikasi mobile. Aplikasi ini mengelola daftar catatan secara dinamis di memori lokal menggunakan `StatefulWidget` dan `setState()`.
 
@@ -32,5 +32,21 @@ Aplikasi pencatat tugas harian (*to-do list*) sederhana berbasis **Flutter** yan
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/satriabbagaskara/mini_task_tracker.git](https://github.com/satriabbagaskara/mini_task_tracker.git)
+   git clone https://github.com/satriabbagaskara/mini_task_tracker.git
    cd mini_task_tracker
+   ```
+
+2. **Unduh depedensi proyek & jalankan aplikasi di emulator/android:**
+    - flutter pub get
+    - flutter run
+
+### Deklarasi Penggunaan AI
+- Apakah menggunakan AI? Ya
+- Tool AI yang digunakan: Google Gemini
+- Estimasi persentase kontribusi AI: ± 35%
+- Bagian kode/fitur yang dibantu AI: 
+  1. Bertukar ide tentang alur kerja Flutter lewat AI sambil menonton video panduan Flutter di YouTube sebelum mengerjakan study case.
+  2. Memperbaiki error yang ada pada baris input tugas, spesifiknya ada di baris 69 - 79
+  3. Memperbaiki error yang ada pada area daftar tugas, spesifiknya ada pada baris 96 - 120
+- Pernyataan: 
+  Saya menyatakan bahwa saya memahami alur dan fungsi dari seluruh kode yang ada dalam repositori ini
